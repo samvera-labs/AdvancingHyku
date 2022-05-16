@@ -19,4 +19,3 @@ The primary institutional partners in the project are the University of Virginia
 
 The partners will work together over the grant period to assess requirements and jointly create detailed, component-specific development plans, resulting in new capabilities collaboratively developed by Ubiquity and the two institutions. All code will be released as open source and wherever possible will be merged with the Hyku core codebase in accord with the Samvera Community’s practices.
 
-The partners will work together over the grant period to assess requirements and jointly create detailed, component-specific development plans, resulting in new capabilities collaboratively developed by Ubiquity and the two institutions. All code will be released as open source and wherever possible will be merged with the Hyku core codebase in accord with the Samvera Community’s practices.
